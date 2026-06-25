@@ -1,6 +1,6 @@
 # 🔎 Busca Ágil em PDF — Multi-arquivos v2
 
-Ferramenta web para buscar nomes ou termos em **um ou vários PDFs simultaneamente**, desenvolvida para a **Coordenadoria de Governança de Dados do TJPE**.
+Ferramenta web para buscar nomes ou termos em **um ou vários PDFs simultaneamente**, desenvolvida para a **Coordenadoria de Governança Institucional do TJPE**.
 
 ## ✨ Funcionalidades
 
@@ -15,17 +15,8 @@ Ferramenta web para buscar nomes ou termos em **um ou vários PDFs simultaneamen
 ## 🚀 Como usar
 
 ### Localmente
-
-```bash
-pip install -r requirements.txt
-python busca_agil_v2.py
-```
-
-Acesse `http://127.0.0.1:7860` no navegador.
-
+ou 
 ### Hugging Face Spaces
-
-Acesse diretamente: [Palu1006/busca-agil-v2](https://huggingface.co/spaces/Palu1006/busca-agil-v2)
 
 ## 📁 Estrutura
 
@@ -44,4 +35,4 @@ Acesse diretamente: [Palu1006/busca-agil-v2](https://huggingface.co/spaces/Palu1
 
 ## 👩‍💻 Autora
 
-Paloma Alves — Coordenadoria de Governança de Dados / TJPE
+Paloma Alves — Coordenadoria de Governança Institucional / TJPE
